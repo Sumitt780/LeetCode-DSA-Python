@@ -5,7 +5,7 @@
 # Space Complexity: O(1) - excluding the output array
 
 
-class Solution:
+class solution:
     def productExceptSelf(self, nums):
         n = len(nums)
         result = [1] * n
