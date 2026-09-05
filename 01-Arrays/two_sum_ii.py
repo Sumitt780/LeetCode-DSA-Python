@@ -7,7 +7,7 @@
 
 class Solution:
     def twoSum(self, numbers, target):
-        left, right = 0, len(numbers) - 
+        left, right = 0, len(numbers) - 1
 
         while left < right:
             curr_sum = numbers[left] + numbers[right]
