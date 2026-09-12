@@ -12,11 +12,11 @@ examples, and complexity analysis.
 
 ## Progress
 
-**Total Problems Solved: 17**
+**Total Problems Solved: 18**
 
 | Topic | Problems Solved |
 |---|---:|
-| Arrays | 17 |`n| Strings | 0 |`n| Hashing | 0 |`n| Two Pointers | 0 |`n| Sliding Window | 0 |`n| Binary Search | 0 |`n| Linked List | 0 |`n| Stack | 0 |`n| Queue | 0 |`n| Trees | 0 |`n| Heap | 0 |`n| Graphs | 0 |`n| Greedy | 0 |`n| Backtracking | 0 |`n| Dynamic Programming | 0 |
+| Arrays | 18 |`n| Strings | 0 |`n| Hashing | 0 |`n| Two Pointers | 0 |`n| Sliding Window | 0 |`n| Binary Search | 0 |`n| Linked List | 0 |`n| Stack | 0 |`n| Queue | 0 |`n| Trees | 0 |`n| Heap | 0 |`n| Graphs | 0 |`n| Greedy | 0 |`n| Backtracking | 0 |`n| Dynamic Programming | 0 |
 
 ---
 
@@ -24,7 +24,7 @@ examples, and complexity analysis.
 
 | Problem | Topic | Difficulty |
 |---|---|---|
-| 121-Best-Time-To-Buy-And-Sell-Stock | Arrays | Easy |`n| Container With Most Water | Arrays | - |`n| Contains Duplicate | Arrays | Easy |`n| Find Pivot Index | Arrays | Easy |`n| Longest Consecutive Sequence | Arrays | Medium |`n| Majority Element | Arrays | Easy |`n| Maximum Subarray | Arrays | Medium |`n| Move Zeroes | Arrays | Easy |`n| Product Of Array Except Self | Arrays | - |`n| Rotate Array | Arrays | - |`n| Single Number | Arrays | Easy |`n| Sort Colors | Arrays | Medium |`n| Squares Of Sorted Array | Arrays | Easy |`n| Subarray Product Less Than K | Arrays | Medium |`n| Three Sum | Arrays | Medium |`n| Two Sum | Arrays | Easy |`n| Two Sum Ii | Arrays | - |
+| 121-Best-Time-To-Buy-And-Sell-Stock | Arrays | Easy |`n| Container With Most Water | Arrays | - |`n| Contains Duplicate | Arrays | Easy |`n| Contiguous Array | Arrays | Medium |`n| Find Pivot Index | Arrays | Easy |`n| Longest Consecutive Sequence | Arrays | Medium |`n| Majority Element | Arrays | Easy |`n| Maximum Subarray | Arrays | Medium |`n| Move Zeroes | Arrays | Easy |`n| Product Of Array Except Self | Arrays | - |`n| Rotate Array | Arrays | - |`n| Single Number | Arrays | Easy |`n| Sort Colors | Arrays | Medium |`n| Squares Of Sorted Array | Arrays | Easy |`n| Subarray Product Less Than K | Arrays | Medium |`n| Three Sum | Arrays | Medium |`n| Two Sum | Arrays | Easy |`n| Two Sum Ii | Arrays | - |
 
 ---
 
